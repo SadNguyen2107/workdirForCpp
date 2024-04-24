@@ -1,5 +1,5 @@
-# CS3323 Code Discussion
-A place where everyone to discussing about homework code in CS3323 and `push` and `pull` the latest code
+# Workdir For Cpp Program
+This is a template for the cpp program to run
 
 ## Appendix
 1. [Compile Program](README.md#compile-program)
